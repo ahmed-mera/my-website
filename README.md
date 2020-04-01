@@ -12,4 +12,4 @@ link => [http://mera.ddns.nett](http://mera.ddns.net)
 
 # Image of Full Site :
 
-![alt text](https://github.com/ahmed-mera/my-website/blob/master/images/screencapture-mera-ddns-net-2020-04-01-17_17_54.png "Image of full Site")
+![alt text](https://github.com/ahmed-mera/my-website/blob/master/images/screencapture-localhost-Ahmed-php-2020-04-01-17_44_29.png "Image of full Site")
